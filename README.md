@@ -1,8 +1,7 @@
-# EasyWin32 Client Sokcet<br>
-## EasyWin32 API를 활용한 클라이언트 소켓 제작 및 구성 원리 익히기
-
+# EasyWin32 튜토리얼<br>
+## EasyWin32
 ## 학습 기간
-> 24.3.18 ~ 24.3.21(계속 복습 중)
+> 24.4.15 ~ 24.4.16(계속 복습 중)
 
 ## 사용 언어
 ![Langauge:C++](https://img.shields.io/badge/Language-C-red) ![platform:Visual Studio](https://img.shields.io/badge/Platform-Visual_Studio-red)
